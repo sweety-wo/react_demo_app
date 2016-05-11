@@ -1,0 +1,12 @@
+{
+  "index": {
+    "path": "/",
+    "label": "Dashboard",
+    "icon": "home"
+  },
+  "products": {
+    "path": "products",
+    "label": "Products",
+    "icon": "help_outline"
+  }
+}

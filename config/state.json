@@ -1,0 +1,18 @@
+{
+  "routing": {
+    "location": ""
+  },
+  "ui": {
+    "menuOpened": false
+  },
+  "clients": {
+    "isFetching": false,
+    "error": null,
+    "items": []
+  },
+  "products": {
+    "isFetching": false,
+    "error": null,
+    "items": []
+  }
+}
