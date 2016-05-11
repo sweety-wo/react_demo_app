@@ -61,7 +61,7 @@ class Menu extends Component {
                 <h2 className="page-menu__label">Sidebar</h2>
                 {this.renderItems(this.props.items)}
                 <span className="page-menu__pull-down">
-                    Use Ctrl/Cmd+H to toggle Redux Dev Panel
+
                 </span>
             </nav>
         )
